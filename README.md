@@ -1,0 +1,2 @@
+# Locanto
+location, services, phone 
